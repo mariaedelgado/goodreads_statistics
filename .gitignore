@@ -1,0 +1,3 @@
+# Paths to ignore by Git
+/src/__pycache__/
+/src/utils/__pycache__
