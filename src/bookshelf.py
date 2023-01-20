@@ -1,4 +1,4 @@
-from utils.google_books_api import *
+from utils.openlibrary_api import *
 
 class Book:
     """
