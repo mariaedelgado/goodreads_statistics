@@ -3,7 +3,7 @@
 CREATE TABLE Books (
   title varchar(255) NOT NULL, 
   author varchar(255) NOT NULL,
-  isbn int(12),
+  isbn varchar(12),
   genre varchar(255) NOT NULL,
   my_rating float NOT NULL,
   average_rating float NOT NULL,
